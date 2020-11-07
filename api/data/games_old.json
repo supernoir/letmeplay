@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "title": "Dragon Age II",
+    "series": "Dragon Age",
+    "yearpublished": 2011,
+    "genre": "RPG",
+    "characters": [
+      {
+        "name": "Serendipity",
+        "orientation": [
+          "bisexual"
+        ],
+        "gender": "trans woman",
+        "comment": "",
+        "playable": true,
+        "status": "verified"
+      },
+      {
+        "name": "Cyril",
+        "orientation": [
+          "bisexual"
+        ],
+        "gender": "cis man",
+        "comment": "",
+        "playable": false,
+        "status": "alleged"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "The Outer Worlds",
+    "series": "",
+    "genre": "RPG",
+    "yearpublished": 2019,
+    "characters": [
+      {
+        "name": "Parvati Holcomb",
+        "orientation": [
+          "bisexual",
+          "asexual"
+        ],
+        "gender": "cis woman",
+        "comment": "",
+        "playable": false,
+        "status": "verified"
+      }
+    ]
+  }
+]

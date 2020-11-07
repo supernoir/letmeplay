@@ -1,51 +1,3418 @@
 [
-  {
-    "id": 1,
-    "title": "Dragon Age II",
-    "series": "Dragon Age",
-    "yearpublished": 2011,
-    "genre": "RPG",
-    "characters": [
-      {
-        "name": "Serendipity",
-        "orientation": [
-          "bisexual"
-        ],
-        "gender": "trans woman",
-        "comment": "",
-        "playable": true,
-        "status": "verified"
-      },
-      {
-        "name": "Cyril",
-        "orientation": [
-          "bisexual"
-        ],
-        "gender": "cis man",
-        "comment": "",
-        "playable": false,
-        "status": "alleged"
-      }
-    ]
-  },
-  {
-    "id": 2,
-    "title": "The Outer Worlds",
-    "series": "",
-    "genre": "RPG",
-    "yearpublished": 2019,
-    "characters": [
-      {
-        "name": "Parvati Holcomb",
-        "orientation": [
-          "bisexual",
-          "asexual"
-        ],
-        "gender": "cis woman",
-        "comment": "",
-        "playable": false,
-        "status": "verified"
-      }
-    ]
-  }
+	{
+		"series": "Ace Attorney",
+		"yearpublished": "2004",
+		"title": "Phoenix Wright: Ace Attorney − Trials and Tribulations",
+		"characters": [
+			{
+				"name": "Jean Armstrong",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Assassin's Creed",
+		"yearpublished": "2007",
+		"title": "Assassin's Creed",
+		"characters": [
+			{
+				"name": "Abu'l Nuquod",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Assassin's Creed",
+		"yearpublished": "2010",
+		"title": "Assassin's Creed: Brotherhood",
+		"characters": [
+			{
+				"name": "Leonardo da Vinci",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "cis male",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Assassin's Creed",
+		"yearpublished": "2010",
+		"title": "Assassin's Creed: Brotherhood",
+		"characters": [
+			{
+				"name": "Salai",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Assassin's Creed",
+		"yearpublished": "2014",
+		"title": "Assassin's Creed Rogue",
+		"characters": [
+			{
+				"name": "Harlan Cunningham",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Assassin's Creed",
+		"yearpublished": "2014",
+		"title": "Assassin's Creed Rogue",
+		"characters": [
+			{
+				"name": "Arend Schut",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Assassin's Creed",
+		"yearpublished": "2015",
+		"title": "Assassin's Creed Syndicate",
+		"characters": [
+			{
+				"name": "Jacob Frye",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Assassin's Creed",
+		"yearpublished": "2015",
+		"title": "Assassin's Creed Syndicate",
+		"characters": [
+			{
+				"name": "Ned Wynert",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"trans man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Assassin's Creed",
+		"yearpublished": "2015",
+		"title": "Assassin's Creed Syndicate",
+		"characters": [
+			{
+				"name": "Arend Schut Cunningham",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			},
+			{
+				"name": "Harlan Cunningham",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Assassin's Creed",
+		"yearpublished": "2018",
+		"title": "Assassin's Creed Odyssey",
+		"characters": [
+			{
+				"name": "Alexios",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			},
+			{
+				"name": "Kassandra",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Baldur's Gate",
+		"yearpublished": "2012",
+		"title": "Baldur's Gate: Enhanced Edition",
+		"characters": [
+			{
+				"name": "Gorion's Ward",
+				"orientation": [
+					"bisexxual"
+				],
+				"gender": [
+					"cis man",
+					"cis woman"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Baldur's Gate",
+		"yearpublished": "2012",
+		"title": "Baldur's Gate: Enhanced Edition",
+		"characters": [
+			{
+				"name": "Dorn Il-Khan",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis male"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Baldur's Gate",
+		"yearpublished": "2016",
+		"title": "Baldur's Gate: Siege of Dragonspear",
+		"characters": [
+			{
+				"name": "Mizhena",
+				"orientation": [
+					""
+				],
+				"gender": [
+					"trans woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Borderlands",
+		"yearpublished": "2009",
+		"title": "Borderlands",
+		"characters": [
+			{
+				"name": "Mad Moxxi",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Borderlands",
+		"yearpublished": "2012",
+		"title": "Borderlands 2",
+		"characters": [
+			{
+				"name": "Mad Moxxi",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Borderlands",
+		"yearpublished": "2012",
+		"title": "Borderlands 2",
+		"characters": [
+			{
+				"name": "Tiny Tina",
+				"orientation": [
+					"lesbian"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Borderlands",
+		"yearpublished": "2012",
+		"title": "Borderlands 2",
+		"characters": [
+			{
+				"name": "Axton",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis male"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Borderlands",
+		"yearpublished": "2012",
+		"title": "Borderlands 2",
+		"characters": [
+			{
+				"name": "Sir Hammerlock",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Borderlands",
+		"yearpublished": "2012",
+		"title": "Borderlands 2",
+		"characters": [
+			{
+				"name": "Mister Torgue High-Five Flexington",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Borderlands",
+		"yearpublished": "2014",
+		"title": "Borderlands: The Pre-Sequel",
+		"characters": [
+			{
+				"name": "Rose",
+				"orientation": [
+					"lesbian"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			},
+			{
+				"name": "Gabby",
+				"orientation": [
+					"lesbian"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Borderlands",
+		"yearpublished": "2014",
+		"title": "Borderlands: The Pre-Sequel",
+		"characters": [
+			{
+				"name": "Athena",
+				"orientation": [
+					"lesbian"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			},
+			{
+				"name": "Janey Springs",
+				"orientation": [
+					"lesbian"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Borderlands",
+		"yearpublished": "2014",
+		"title": "Tales from the Borderlands",
+		"characters": [
+			{
+				"name": "Athena",
+				"orientation": [
+					"lesbian"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			},
+			{
+				"name": "Janey Springs",
+				"orientation": [
+					"lesbian"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Borderlands",
+		"yearpublished": "2019",
+		"title": "Borderlands 3",
+		"characters": [
+			{
+				"name": "FL4K",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"non-binary"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Digimon Story: Cyber Sleuth",
+		"yearpublished": "2015",
+		"title": "Digimon Story: Cyber Sleuth",
+		"characters": [
+			{
+				"name": "Fei Wong Tomoe Ignacio",
+				"orientation": [
+					"lesbian"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "unverified"
+			}
+		]
+	},
+	{
+		"series": "Digimon Story: Cyber Sleuth",
+		"yearpublished": "2017",
+		"title": "Digimon Story: Cyber Sleuth - Hacker's Memory",
+		"characters": [
+			{
+				"name": "Yu Nogi",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Dragon Age",
+		"yearpublished": "2009",
+		"title": "Dragon Age: Origins",
+		"characters": [
+			{
+				"name": "Warden",
+				"orientation": [
+					"bisexual",
+					"gay",
+					"lesbian"
+				],
+				"gender": [
+					"cis man",
+					"cis woman"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Dragon Age",
+		"yearpublished": "2009",
+		"title": "Dragon Age: Origins",
+		"characters": [
+			{
+				"name": "Wade",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			},
+			{
+				"name": "Herren",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Dragon Age",
+		"yearpublished": "2009",
+		"title": "Dragon Age: Origins",
+		"characters": [
+			{
+				"name": "Hespith",
+				"orientation": [
+					"lesbian"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Dragon Age",
+		"yearpublished": "2009",
+		"title": "Dragon Age: Origins",
+		"characters": [
+			{
+				"name": "Branka",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Dragon Age",
+		"yearpublished": "2011",
+		"title": "Dragon Age II[citation needed]",
+		"characters": [
+			{
+				"name": "Hawke",
+				"orientation": [
+					"bisexual",
+					"gay",
+					"lesbian"
+				],
+				"gender": [
+					"cis man",
+					"cis woman"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Dragon Age",
+		"yearpublished": "2011",
+		"title": "Dragon Age II",
+		"characters": [
+			{
+				"name": "Serendipity",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"trans woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Dragon Age",
+		"yearpublished": "2011",
+		"title": "Dragon Age II",
+		"characters": [
+			{
+				"name": "Zevran Arainai",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Dragon Age",
+		"yearpublished": "2011",
+		"title": "Dragon Age II",
+		"characters": [
+			{
+				"name": "Cyril",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Dragon Age",
+		"yearpublished": "2014",
+		"title": "Dragon Age: Inquisition",
+		"characters": [
+			{
+				"name": "Inquisitor",
+				"orientation": [
+					"bisexual",
+					"gay",
+					"lesbian"
+				],
+				"gender": [
+					"cis man",
+					"cis woman"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Dragon Age",
+		"yearpublished": "2014",
+		"title": "Dragon Age: Inquisition",
+		"characters": [
+			{
+				"name": "Sera",
+				"orientation": [
+					"lesbian"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Dragon Age",
+		"yearpublished": "2014",
+		"title": "Dragon Age: Inquisition",
+		"characters": [
+			{
+				"name": "Dorian Pavus",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Dragon Age",
+		"yearpublished": "2014",
+		"title": "Dragon Age: Inquisition]",
+		"characters": [
+			{
+				"name": "Iron Bull",
+				"orientation": [
+					"pansexual"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Dragon Age",
+		"yearpublished": "2014",
+		"publisher": "BioWare",
+		"title": "Dragon Age: Inquisition",
+		"characters": [
+			{
+				"name": "Josephine Montiliyet",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Dragon Age",
+		"yearpublished": "2014",
+		"publisher": "BioWare",
+		"title": "Dragon Age: Inquisition",
+		"characters": [
+			{
+				"name": "Lace Harding",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Dragon Age",
+		"yearpublished": "2014",
+		"published": "BioWare",
+		"title": "Dragon Age: Inquisition",
+		"characters": [
+			{
+				"name": "Cremisius Aclassi",
+				"orientation": [
+					""
+				],
+				"gender": [
+					"trans man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Dragon Age",
+		"yearpublished": "2014",
+		"title": "Dragon Age: Inquisition",
+		"characters": [
+			{
+				"name": "Empress Celene of Orlais and Briala",
+				"orientation": [
+					"lesbian"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Dragon Age",
+		"yearpublished": "2014",
+		"title": "Dragon Age: Inquisition",
+		"characters": [
+			{
+				"name": "Leliana",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Dragon Age",
+		"yearpublished": "2014",
+		"publisher": "BioWare",
+		"title": "Dragon Age: Inquisition",
+		"characters": [
+			{
+				"name": "Cyril de Montfort",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Drakengard",
+		"yearpublished": "2005",
+		"title": "Drakengard 2",
+		"characters": [
+			{
+				"name": "Yaha",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Drakengard",
+		"yearpublished": "2010",
+		"title": "Nier",
+		"characters": [
+			{
+				"name": "Emil",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Drakengard",
+		"yearpublished": "2010",
+		"title": "Nier",
+		"characters": [
+			{
+				"name": "Kainé",
+				"orientation": [
+					""
+				],
+				"gender": [
+					"intersex woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Drakengard",
+		"yearpublished": "2017",
+		"title": "Nier: Automata",
+		"characters": [
+			{
+				"name": "60",
+				"orientation": [
+					"lesbian"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			},
+			{
+				"name": "16D",
+				"orientation": [
+					"lesbian"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			},
+			{
+				"name": "11B",
+				"orientation": [
+					"lesbian"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Fable",
+		"yearpublished": "2004",
+		"title": "Fable",
+		"characters": [
+			{
+				"name": "Player",
+				"orientation": [
+					"lesbian",
+					"gay",
+					"bisexual"
+				],
+				"gender": [
+					"cis woman",
+					"cis man"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Fable",
+		"yearpublished": "2008",
+		"title": "Fable II",
+		"characters": [
+			{
+				"name": "Player",
+				"orientation": [
+					"lesbian",
+					"bisexual",
+					"gay"
+				],
+				"gender": [
+					"cis woman",
+					"cis man"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Fable",
+		"yearpublished": "2010",
+		"title": "Fable III",
+		"characters": [
+			{
+				"name": "Player",
+				"orientation": [
+					"lesbian",
+					"gay",
+					"bisexual"
+				],
+				"gender": [
+					"cis woman",
+					"cis man"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Fallout",
+		"yearpublished": "1998",
+		"publisher": "Black Isle Studios",
+		"title": "Fallout 2",
+		"characters": [
+			{
+				"name": "Miria",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			},
+			{
+				"name": "Davin",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Fallout",
+		"yearpublished": "2008",
+		"title": "Fallout 3",
+		"characters": [
+			{
+				"name": "Nova",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Fallout",
+		"yearpublished": "2008",
+		"title": "Fallout 3",
+		"characters": [
+			{
+				"name": "Carol",
+				"orientation": [
+					"lesbian"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			},
+			{
+				"name": "Greta",
+				"orientation": [
+					"lesbian"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Fallout",
+		"yearpublished": "2008",
+		"publisher": "Bethesda Game Studios",
+		"title": "Fallout 3",
+		"characters": [
+			{
+				"name": "Flak",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			},
+			{
+				"name": "Shrapnel",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Fallout",
+		"yearpublished": "2010",
+		"title": "Fallout: New Vegas",
+		"characters": [
+			{
+				"name": "Courier",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Fallout",
+		"yearpublished": "2010",
+		"title": "Fallout: New Vegas",
+		"characters": [
+			{
+				"name": "Veronica Santangelo",
+				"orientation": [
+					"lesbian"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Fallout",
+		"yearpublished": "2010",
+		"publisher": "Obsidian Entertainment",
+		"title": "Fallout: New Vegas",
+		"characters": [
+			{
+				"name": "Arcade Gannon",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Fallout",
+		"yearpublished": "2010",
+		"publisher": "Obsidian Entertainment",
+		"title": "Fallout: New Vegas",
+		"characters": [
+			{
+				"name": "Rose of Sharon Cassidy",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Fallout",
+		"yearpublished": "2010",
+		"title": "Fallout: New Vegas",
+		"characters": [
+			{
+				"name": "Corporal Betsy",
+				"orientation": [
+					"lesbian"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Fallout",
+		"yearpublished": "2015",
+		"title": "Fallout 4",
+		"characters": [
+			{
+				"name": "Sole Survivor",
+				"orientation": [
+					"gay",
+					"bisexual",
+					"lesbian"
+				],
+				"gender": [
+					"cis man",
+					"cis woman"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Final Fantasy",
+		"yearpublished": "1999",
+		"title": "Final Fantasy VIII",
+		"characters": [
+			{
+				"name": "Adel",
+				"orientation": [
+					""
+				],
+				"gender": [
+					"intersex"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Final Fantasy",
+		"yearpublished": "2000",
+		"title": "Final Fantasy IX",
+		"characters": [
+			{
+				"name": "Quina Quen",
+				"orientation": [
+					""
+				],
+				"gender": [
+					"non-binary"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Final Fight and Street Fighter",
+		"yearpublished": "1989",
+		"title": "Final Fight",
+		"characters": [
+			{
+				"name": "Poison",
+				"orientation": [
+					""
+				],
+				"gender": [
+					"trans woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Final Fight and Street Fighter",
+		"yearpublished": "1993",
+		"title": "Mighty Final Fight",
+		"characters": [
+			{
+				"name": "Poison",
+				"orientation": [
+					""
+				],
+				"gender": [
+					"trans man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Final Fight and Street Fighter",
+		"yearpublished": "1999",
+		"title": "Final Fight Revenge",
+		"characters": [
+			{
+				"name": "Poison",
+				"orientation": [
+					""
+				],
+				"gender": [
+					"trans woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Final Fight and Street Fighter",
+		"yearpublished": "2012",
+		"title": "Street Fighter X Tekken",
+		"characters": [
+			{
+				"name": "Poison",
+				"orientation": [
+					""
+				],
+				"gender": [
+					"trans woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Final Fight and Street Fighter",
+		"yearpublished": "2014",
+		"title": "Ultra Street Fighter IV",
+		"characters": [
+			{
+				"name": "Poison",
+				"orientation": [
+					""
+				],
+				"gender": [
+					"trans woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Final Fight and Street Fighter",
+		"yearpublished": "2018",
+		"title": "Street Fighter V: Arcade Edition",
+		"characters": [
+			{
+				"name": "Poison",
+				"orientation": [
+					""
+				],
+				"gender": [
+					"trans woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Fire Emblem",
+		"yearpublished": "2007",
+		"publisher": "Nintendo SPD",
+		"title": "Fire Emblem: Radiant Dawn",
+		"characters": [
+			{
+				"name": "Heather",
+				"orientation": [
+					"lesbian"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Fire Emblem",
+		"yearpublished": "2015",
+		"title": "Fire Emblem Fates",
+		"characters": [
+			{
+				"name": "Corrin",
+				"orientation": [
+					"gay",
+					"lesbian",
+					"bisexual"
+				],
+				"gender": [
+					"cis man",
+					"cis woman"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Fire Emblem",
+		"yearpublished": "2017",
+		"title": "Fire Emblem Echoes: Shadows of Valentia",
+		"characters": [
+			{
+				"name": "Leon",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Fire Emblem",
+		"yearpublished": "2019",
+		"title": "Fire Emblem: Three Houses",
+		"characters": [
+			{
+				"name": "Byleth",
+				"orientation": [
+					"gay",
+					"lesbian",
+					"bisexual"
+				],
+				"gender": [
+					"cis man",
+					"cis woman"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Five Nights at Freddy's",
+		"yearpublished": "2014",
+		"title": "Five Nights at Freddy's 2",
+		"characters": [
+			{
+				"name": "Mangle",
+				"orientation": [
+					""
+				],
+				"gender": [
+					"genderqueer"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Five Nights at Freddy's",
+		"yearpublished": "2015",
+		"title": "Five Nights at Freddy's 3",
+		"characters": [
+			{
+				"name": "Mangle",
+				"orientation": [
+					""
+				],
+				"gender": [
+					"genderqueer"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Five Nights at Freddy's",
+		"yearpublished": "2015",
+		"title": "Five Nights at Freddy's 4",
+		"characters": [
+			{
+				"name": "Mangle",
+				"orientation": [
+					""
+				],
+				"gender": [
+					"genderqueer"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Five Nights at Freddy's",
+		"yearpublished": "2015",
+		"title": "Five Nights at Freddy's: Help Wanted",
+		"characters": [
+			{
+				"name": "Mangle",
+				"orientation": [
+					""
+				],
+				"gender": [
+					"genderqueer"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Grand Theft Auto",
+		"yearpublished": "2001",
+		"title": "Grand Theft Auto III",
+		"characters": [
+			{
+				"name": "Asuka",
+				"orientation": [
+					"lesbian"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			},
+			{
+				"name": "Maria",
+				"orientation": [
+					"lesbian"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Grand Theft Auto",
+		"yearpublished": "2005",
+		"title": "Grand Theft Auto: Liberty City Stories",
+		"characters": [
+			{
+				"name": "Reni Wassulmaier",
+				"orientation": [
+					""
+				],
+				"gender": [
+					"genderqueer"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Grand Theft Auto",
+		"yearpublished": "2006",
+		"title": "Grand Theft Auto: Vice City Stories",
+		"characters": [
+			{
+				"name": "Reni Wassulmaier",
+				"orientation": [
+					""
+				],
+				"gender": [
+					"genderqueer"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Grand Theft Auto",
+		"yearpublished": "2008",
+		"title": "Grand Theft Auto IV",
+		"characters": [
+			{
+				"name": "Bernie Crane",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Grand Theft Auto",
+		"yearpublished": "2009",
+		"title": "Grand Theft Auto: The Ballad of Gay Tony",
+		"characters": [
+			{
+				"name": "Anthony",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Grand Theft Auto",
+		"yearpublished": "2013",
+		"published": "Rockstar North",
+		"title": "Grand Theft Auto V",
+		"characters": [
+			{
+				"name": "Trevor Philips",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Heileen",
+		"yearpublished": "2008",
+		"publisher": "Tycoon Games",
+		"title": "Heileen: Sail Away",
+		"characters": [
+			{
+				"name": "Heileen",
+				"orientation": [
+					"lesbian",
+					"bisexual"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Heileen",
+		"yearpublished": "2008",
+		"title": "Heileen: Sail Away",
+		"characters": [
+			{
+				"name": "Lora",
+				"orientation": [
+					"lesbian"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Heileen",
+		"yearpublished": "2008",
+		"title": "Heileen 3: New Horizons",
+		"characters": [
+			{
+				"name": "Heileen",
+				"orientation": [
+					"lesbian",
+					"bisexual"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "The Last of Us",
+		"yearpublished": "2013",
+		"published": "Naughty Dog",
+		"title": "The Last of Us",
+		"characters": [
+			{
+				"name": "Bill",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			},
+			{
+				"name": "Frank",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "The Last of Us",
+		"yearpublished": "2013",
+		"publisher": "Naughty Dog",
+		"title": "The Last of Us",
+		"characters": [
+			{
+				"name": "Ellie",
+				"orientation": [
+					"lesbian"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			},
+			{
+				"name": "Abel",
+				"orientation": [
+					"lesbian"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "The Last of Us",
+		"yearpublished": "2020",
+		"publisher": "Naughty Dog",
+		"title": "The Last of Us Part II",
+		"characters": [
+			{
+				"name": "Ellie",
+				"orientation": [
+					"lesbian"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			},
+			{
+				"name": "Dina",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			},
+			{
+				"name": "Lev",
+				"orientation": [
+					""
+				],
+				"gender": [
+					"trans man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "The Legend of Korra",
+		"yearpublished": "2014",
+		"title": "The Legend of Korra",
+		"characters": [
+			{
+				"name": "Korra",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "The Legend of Korra",
+		"yearpublished": "2014",
+		"title": "The Legend of Korra: A New Era Begins",
+		"characters": [
+			{
+				"name": "Korra",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "League of Legends",
+		"yearpublished": "2009",
+		"publisher": "Riot Games",
+		"title": "League of Legends",
+		"characters": [
+			{
+				"name": "Neeko",
+				"orientation": [
+					"lesbian"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			},
+			{
+				"name": "Varus",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Life Is Strange",
+		"yearpublished": "2015",
+		"title": "Life Is Strange",
+		"characters": [
+			{
+				"name": "Maxine 'Max' Caulfield",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			},
+			{
+				"name": "Chloe Price",
+				"orientation": [
+					"lesbian"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			},
+			{
+				"name": "Rachel Amber",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Life Is Strange",
+		"yearpublished": "2017",
+		"title": "Life Is Strange: Before the Storm",
+		"characters": [
+			{
+				"name": "Chloe Price",
+				"orientation": [
+					"lesbian"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			},
+			{
+				"name": "Rachel Amber",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			},
+			{
+				"name": "Steph Gingrich",
+				"orientation": [
+					"lesbian"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Life Is Strange",
+		"yearpublished": "2018",
+		"title": "Life Is Strange 2",
+		"characters": [
+			{
+				"name": "Sean Diaz",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			},
+			{
+				"name": "Finnegan 'Finn' McNamara",
+				"orientation": [
+					"pansexual"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			},
+			{
+				"name": "Jacob 'Jake' Hackerman",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			},
+			{
+				"name": "Penny",
+				"orientation": [
+					"gay",
+					"bisexual"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			},
+			{
+				"name": "Arthur Petersen",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			},
+			{
+				"name": "Stanley Petersen",
+				"orientation": [
+					"gay",
+					"bisexual"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "The Longest Journey",
+		"yearpublished": "1999",
+		"title": "The Longest Journey",
+		"characters": [
+			{
+				"name": "Fiona",
+				"orientation": [
+					"lesbian"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			},
+			{
+				"name": "Mickey",
+				"orientation": [
+					"lesbian"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "The Longest Journey",
+		"yearpublished": "2014",
+		"title": "Dreamfall Chapters",
+		"characters": [
+			{
+				"name": "Kian Alvane",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			},
+			{
+				"name": "Likho",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			},
+			{
+				"name": "Hanna",
+				"orientation": [
+					"lesbian"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			},
+			{
+				"name": "Abby",
+				"orientation": [
+					"lesbian"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Mario",
+		"yearpublished": "1985",
+		"title": "Super Mario Bros.",
+		"characters": [
+			{
+				"name": "Toad",
+				"orientation": [
+					""
+				],
+				"gender": [
+					"agender"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Mario",
+		"yearpublished": "1988",
+		"title": "Super Mario Bros. 2",
+		"characters": [
+			{
+				"name": "Birdo",
+				"orientation": [
+					""
+				],
+				"gender": [
+					"trans woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Mario",
+		"yearpublished": "2004",
+		"title": "Paper Mario: The Thousand-yearpublished Door",
+		"characters": [
+			{
+				"name": "Vivian",
+				"orientation": [
+					""
+				],
+				"gender": [
+					"trans woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Marvel Comics",
+		"yearpublished": "2011",
+		"title": "X-Men: Destiny",
+		"characters": [
+			{
+				"name": "Northstar",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Marvel Comics",
+		"yearpublished": "2013",
+		"title": "Marvel Heroes",
+		"characters": [
+			{
+				"name": "Northstar",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Marvel Comics",
+		"yearpublished": "2013",
+		"title": "Marvel Heroes",
+		"characters": [
+			{
+				"name": "Wiccan",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Mass Effect",
+		"yearpublished": "—",
+		"publisher": "BioWare",
+		"title": "Mass Effect 2",
+		"characters": [
+			{
+				"name": "Commander Shepard",
+				"orientation": [
+					"gay",
+					"bisexual",
+					"lesbian"
+				],
+				"gender": [
+					"cis woman",
+					"cis man"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			},
+			{
+				"name": "Dr. Liara T'Soni",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			},
+			{
+				"name": "Kelly Chambers",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Mass Effect",
+		"yearpublished": "2012",
+		"title": "Mass Effect 3",
+		"characters": [
+			{
+				"name": "Commander Shepard",
+				"orientation": [
+					"gay",
+					"bisexual",
+					"lesbian"
+				],
+				"gender": [
+					"cis woman",
+					"cis man"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			},
+			{
+				"name": "Dr. Liara T'Soni",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			},
+			{
+				"name": "Kelly Chambers",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Mass Effect",
+		"yearpublished": "2017",
+		"publisher": "BioWare",
+		"title": "Mass Effect: Andromeda",
+		"characters": [
+			{
+				"name": "Pathfinder Ryder",
+				"orientation": [
+					"gay",
+					"bisexual",
+					"lesbian"
+				],
+				"gender": [
+					"cis woman",
+					"cis man"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			},
+			{
+				"name": "Peebee",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			},
+			{
+				"name": "Vetra",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			},
+			{
+				"name": "Suvi Anwar",
+				"orientation": [
+					"lesbian"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			},
+			{
+				"name": "Gil Brodie",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			},
+			{
+				"name": "Hainly Abrams",
+				"orientation": [
+					""
+				],
+				"gender": [
+					"trans woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Megami Tensei and Persona",
+		"yearpublished": "1997",
+		"title": "Devil Summoner: Soul Hackers",
+		"characters": [
+			{
+				"name": "Beta",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Megami Tensei and Persona",
+		"yearpublished": "1999",
+		"title": "Persona 2: Innocent Sin",
+		"characters": [
+			{
+				"name": "Kurosu Jun",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			},
+			{
+				"name": "Sumaru Genie",
+				"orientation": [
+					""
+				],
+				"gender": [
+					"intersex"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Megami Tensei and Persona",
+		"yearpublished": "2000",
+		"title": "Persona 2: Eternal Punishment",
+		"characters": [
+			{
+				"name": "Jun Kashihara",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			},
+			{
+				"name": "Tatsuya Suou",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			},
+			{
+				"name": "Anna",
+				"orientation": [
+					"lesbian"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			},
+			{
+				"name": "Noriko",
+				"orientation": [
+					"lesbian"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			},
+			{
+				"name": "Sumaru Genie",
+				"orientation": [
+					""
+				],
+				"gender": [
+					"intersex"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Megami Tensei and Persona",
+		"yearpublished": "2009",
+		"title": "Persona 3 Portable",
+		"characters": [
+			{
+				"name": "Aigis",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			},
+			{
+				"name": "Ryoji Mochzuki",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Megami Tensei and Persona",
+		"yearpublished": "2008",
+		"title": "Persona 4",
+		"characters": [
+			{
+				"name": "Kanji Tatsumi",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Metal Gear",
+		"yearpublished": "2001",
+		"title": "Metal Gear Solid 2: Sons of Liberty",
+		"characters": [
+			{
+				"name": "Vamp",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			},
+			{
+				"name": "Scott Dolph",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Metal Gear",
+		"yearpublished": "2004",
+		"publisher": "Konami",
+		"title": "Metal Gear Solid 3: Snake Eater",
+		"characters": [
+			{
+				"name": "Major Raikov",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			},
+			{
+				"name": "Volgin",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Metal Gear",
+		"yearpublished": "2010",
+		"publisher": "Konami",
+		"title": "Metal Gear Solid: Peace Walker",
+		"characters": [
+			{
+				"name": "Dr. Strangelove",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Resident Evil",
+		"yearpublished": "2003",
+		"title": "Resident Evil: Dead Aim",
+		"characters": [
+			{
+				"name": "Morpheus D. Duvall",
+				"orientation": [
+					""
+				],
+				"gender": [
+					"genderqueer"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Saints Row",
+		"yearpublished": "2008",
+		"title": "Saints Row 2",
+		"characters": [
+			{
+				"name": "Player",
+				"orientation": [
+					"bisexual",
+					"lesbian",
+					"gay"
+				],
+				"gender": [
+					"cis man",
+					"cis woman",
+					"non-binary"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Saints Row",
+		"yearpublished": "2011",
+		"title": "Saints Row: The Third",
+		"characters": [
+			{
+				"name": "Player",
+				"orientation": [
+					"bisexual",
+					"lesbian",
+					"gay"
+				],
+				"gender": [
+					"cis man",
+					"cis woman",
+					"non-binary"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Saints Row",
+		"yearpublished": "2014",
+		"title": "Saints Row IV",
+		"characters": [
+			{
+				"name": "Player",
+				"orientation": [
+					"bisexual",
+					"lesbian",
+					"gay"
+				],
+				"gender": [
+					"cis man",
+					"cis woman",
+					"non-binary"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Saints Row",
+		"yearpublished": "2017",
+		"title": "Agents of Mayhem",
+		"characters": [
+			{
+				"name": "Roderick 'Hollywood' Stone",
+				"orientation": [
+					"pansexual"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			},
+			{
+				"name": "Stephanie 'Friday' Albright",
+				"orientation": [
+					"lesbian"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			},
+			{
+				"name": "Janel Braddock",
+				"orientation": [
+					"lesbian"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Shadow Hearts",
+		"yearpublished": "2001",
+		"title": "Shadow Hearts",
+		"characters": [
+			{
+				"name": "Meiyuan",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Shadow Hearts",
+		"yearpublished": "2005",
+		"title": "Shadow Hearts: Covenant",
+		"characters": [
+			{
+				"name": "Gerard Magimel",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			},
+			{
+				"name": "Pierre Magimel",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Shadow Hearts",
+		"yearpublished": "2005",
+		"title": "Shadow Hearts: From the New World",
+		"characters": [
+			{
+				"name": "Gerard Magimel",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			},
+			{
+				"name": "Buigen",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "The Sims",
+		"yearpublished": "2000",
+		"publisher": "Maxis",
+		"title": "The Sims",
+		"characters": [
+			{
+				"name": "Player",
+				"orientation": [
+					"bisexual",
+					"lesbian",
+					"gay"
+				],
+				"gender": [
+					"cis man",
+					"cis woman"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "The Sims",
+		"yearpublished": "2004",
+		"title": "The Sims 2",
+		"characters": [
+			{
+				"name": "Player",
+				"orientation": [
+					"bisexual",
+					"lesbian",
+					"gay"
+				],
+				"gender": [
+					"cis man",
+					"cis woman"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "The Sims",
+		"yearpublished": "2009",
+		"title": "The Sims 3",
+		"characters": [
+			{
+				"name": "Player",
+				"orientation": [
+					"bisexual",
+					"lesbian",
+					"gay"
+				],
+				"gender": [
+					"cis man",
+					"cis woman"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "The Sims",
+		"yearpublished": "2014",
+		"title": "The Sims 4",
+		"characters": [
+			{
+				"name": "Player",
+				"orientation": [
+					"bisexual",
+					"lesbian",
+					"gay"
+				],
+				"gender": [
+					"cis man",
+					"cis woman"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "South Park",
+		"yearpublished": "1999",
+		"title": "South Park Rally",
+		"characters": [
+			{
+				"name": "Big Gay Al",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "South Park",
+		"yearpublished": "2014",
+		"title": "South Park: The Stick of Truth",
+		"characters": [
+			{
+				"name": "Mr. Slave",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "South Park",
+		"yearpublished": "2017",
+		"title": "South Park: The Fractured but Whole",
+		"characters": [
+			{
+				"name": "Tweek",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			},
+			{
+				"name": "Craig",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Star Wars",
+		"yearpublished": "2003",
+		"title": "Star Wars: Knights of the Old Republic",
+		"characters": [
+			{
+				"name": "Juhani",
+				"orientation": [
+					"lesbian"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			},
+			{
+				"name": "Belaya",
+				"orientation": [
+					"lesbian"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Story of Seasons",
+		"yearpublished": "2014",
+		"title": "Story of Seasons",
+		"characters": [
+			{
+				"name": "Marian",
+				"orientation": [
+					""
+				],
+				"gender": [
+					"genderqueer"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Story of Seasons",
+		"yearpublished": "2019",
+		"title": "Story of Seasons: Friends of Mineral Town",
+		"characters": [
+			{
+				"name": "Player",
+				"orientation": [
+					"bisexual",
+					"lesbian",
+					"gay"
+				],
+				"gender": [
+					"cis man",
+					"cis woman"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Summon Night",
+		"yearpublished": "2003",
+		"title": "Summon Night: Swordcraft Story",
+		"characters": [
+			{
+				"name": "Pratty",
+				"orientation": [
+					"lesbian"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Summon Night",
+		"yearpublished": "2004",
+		"title": "Summon Night: Swordcraft Story 2",
+		"characters": [
+			{
+				"name": "Aera Colthearts",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			},
+			{
+				"name": "Edgar Colthearts",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			},
+			{
+				"name": "Lynn",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Ultima",
+		"yearpublished": "1992",
+		"title": "Ultima VII: The Black Gate",
+		"characters": [
+			{
+				"name": "Avatar",
+				"orientation": [
+					"bisexual",
+					"lesbian",
+					"gay"
+				],
+				"gender": [
+					"cis man",
+					"cis woman"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "Valkyria Chronicles",
+		"yearpublished": "2008",
+		"title": "Valkyria Chronicles",
+		"characters": [
+			{
+				"name": "Dallas",
+				"orientation": [
+					"lesbian"
+				],
+				"gender": [
+					"cis woman"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			},
+			{
+				"name": "Ted",
+				"orientation": [
+					"bisexual"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			},
+			{
+				"name": "Jann",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": true,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "The Walking Dead",
+		"yearpublished": "2013",
+		"publisher": "Telltale Games",
+		"title": "The Walking Dead: Season Two",
+		"characters": [
+			{
+				"name": "Matthew",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			},
+			{
+				"name": "Walter",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	},
+	{
+		"series": "The Walking Dead",
+		"yearpublished": "2016",
+		"publisher": "Telltale Games",
+		"title": "The Walking Dead: Michonne",
+		"characters": [
+			{
+				"name": "Jonas",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			},
+			{
+				"name": "Zachary",
+				"orientation": [
+					"gay"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			},
+			{
+				"name": "Paige",
+				"orientation": [
+					"lesbian"
+				],
+				"gender": [
+					"cis man"
+				],
+				"comment": "",
+				"playable": false,
+				"status": "verified"
+			}
+		]
+	}
 ]

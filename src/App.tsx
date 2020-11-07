@@ -18,23 +18,31 @@ const options = [
 function App() {
 
   const [data, setData] = useState<any>([]);
+  const [query, setQuery] = useState<any>([]);
   const [selectedOption, setSelectedOption] = useState<any>(null);
 
-  const sendQuery = (query: string) => {
 
+  const sendQuery = (query: string) => {
     const response = axios(
       `http://192.168.178.20:3031/characters/${query}`,
     );
     response.then((payload) => {
+      console.log({ 'sendQuery': payload.data.games })
       setData(payload.data.games || []);
     })
   }
 
+  const updateQuery = (query: string[]) => {
+    setQuery(query);
+  }
+
   useEffect(() => {
+    sendQuery("bisexualwoman");
     const response = axios(
       'http://192.168.178.20:3031/games',
     );
     response.then((payload) => {
+      console.log({ 'useEffect': payload.data.games })
       setData(payload.data.games || []);
     })
   }, []);
