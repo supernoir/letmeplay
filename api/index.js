@@ -35,6 +35,13 @@ app.get('/characters/:orientation', (req, res) => {
 	})
 })
 
+app.get('/games/:name', (req, res) => {
+	res.json({
+		query: req.params,
+		games: gamesData[0].title
+	})
+})
+
 app.get('/characters', (req, res) => {
 	res.json({
 		games: gamesData
