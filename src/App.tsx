@@ -24,7 +24,7 @@ function App() {
 
   const sendQuery = (query: string) => {
     const response = axios(
-      `http://192.168.178.20:3031/characters/${query}`,
+      `http://localhost:3031/characters/${query}`,
     );
     response.then((payload) => {
       console.log({ 'sendQuery': payload.data.games })
@@ -39,7 +39,7 @@ function App() {
   useEffect(() => {
     sendQuery("bisexualwoman");
     const response = axios(
-      'http://192.168.178.20:3031/games',
+      'http://localhost:3031/games',
     );
     response.then((payload) => {
       console.log({ 'useEffect': payload.data.games })

@@ -12,7 +12,7 @@
     "@types/react": "^16.9.0",
     "@types/react-dom": "^16.9.0",
     "@types/react-select": "^3.0.19",
-    "axios": "^0.20.0",
+    "axios": "^0.21.1",
     "morgan": "^1.10.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",

@@ -33,7 +33,7 @@ const Card: React.FC<CardInterface> = ({
 }) => {
   return <div className="card">
     <div className="card-header">
-      <span><span className='genre'>{`[${genre}]`}</span>{title}</span>
+      <span>{title}</span>
       <span>{yearpublished}</span>
     </div>
     <div className="card-body">
